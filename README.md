@@ -6,11 +6,6 @@
 
 
 
-!\[Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-
-!\[Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
-
-!\[Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square\&logo=googlegemini\&logoColor=white)
 
 
 
