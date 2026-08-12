@@ -85,11 +85,12 @@ git clone \[https://github.com/gan42/my-idea-ai.git](https://github.com/gan42/my
 cd my-idea-ai
 
 pip install -r requirements.txt
-
+```
 \### 2. 로컬 실행
 
+```bash
 streamlit run app.py
-
+```
 📝 사용 방법 (Usage)
 웹 화면이 열리면 사이드바에 Gemini API Key를 입력합니다.
 
